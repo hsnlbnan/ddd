@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'husnu.me',
-    href: 'https://husnu.me',
+    link: 'husnu.site',
+    href: 'https://husnu.site',
   },
   {
     social: 'email',
