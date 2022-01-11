@@ -15,23 +15,23 @@ const ProjectsPage = () => {
   <div className={styles.container}>
       <span className={styles.cta}>
         <h5>HTML5:</h5>
-        <ProgressBar completed={80} bgColor="#e44d27"/>
+        <ProgressBar completed={80} bgColor="#e44d27"width="50%" />
       </span>
       <span className={styles.cta}>
         <h5>CSS3:</h5>
-        <ProgressBar completed={91} bgColor="#2e45dc"/>
+        <ProgressBar completed={91} bgColor="#2e45dc"width="50%" />
       </span>
       <span className={styles.cta}>
         <h5>JavaScript:</h5>
-        <ProgressBar completed={43} bgColor="#ffca29" />
+        <ProgressBar completed={43} bgColor="#ffca29" width="50%" />
       </span>
       <span className={styles.cta}>
         <h5>jQuery:</h5>
-        <ProgressBar completed={37} bgColor='#2d66a7'/>
+        <ProgressBar completed={37} bgColor='#2d66a7'width="50%" />
       </span>
       <span className={styles.cta}>
         <h5>React:</h5>
-        <ProgressBar completed={15} bgColor='#09b2c9'/>
+        <ProgressBar completed={15} bgColor='#09b2c9'width="50%" />
       </span>
       </div>
 
