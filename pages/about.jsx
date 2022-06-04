@@ -10,14 +10,14 @@ const AboutPage = () => {
      <p>22 Mart 2022 - Devam Ediyor</p><br>
  </li><br>
  <li className={styles.listClass}><br>
+ <h2>AgeSoft Software | Yeni Nesil E-Ticaret Sistemleri</h2><br>
+ <h4>Frontend Developer</h4><br>
+ <p>12 Kasım 2021 - 22 Mart 2022</p><br>
+</li><br>
+ <li className={styles.listClass}><br>
      <h2>Age Ajans 360 Derece E-Ticaret Yönetimi</h2><br>
      <h4>Frontend Developer</h4><br>
      <p>20 Mart 2021 - 12 Kasım 2021</p><br>
- </li><br>
- <li className={styles.listClass}><br>
-     <h2>AgeSoft Software | Yeni Nesil E-Ticaret Sistemleri</h2><br>
-     <h4>Frontend Developer</h4><br>
-     <p>12 Kasım 2021 - 22 Mart 2020</p><br>
  </li><br>
  <li className={styles.listClass}><br>
      <h2>bilethub | bilet devrinin en keyifli hali</h2><br>
