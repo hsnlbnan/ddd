@@ -7,7 +7,7 @@ const AboutPage = () => {
   <li className={styles.listClass}><br>
      <h2>Appricot Software Agency</h2><br>
      <h4>Frontend Developer</h4><br>
-     <p>22 Mart 2020 - Devam Ediyor</p><br>
+     <p>22 Mart 2022 - Devam Ediyor</p><br>
  </li><br>
  <li className={styles.listClass}><br>
      <h2>Age Ajans 360 Derece E-Ticaret Yönetimi</h2><br>
